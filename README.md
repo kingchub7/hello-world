@@ -1,2 +1,5 @@
 # hello-world
-Testing because I am new
+
+Hi, I am KingChub7!
+
+I am new to coding and all things of this nature. 
